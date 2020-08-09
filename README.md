@@ -13,12 +13,9 @@
 ![新闻编辑](images/0b5285d1c59ce2dd9891d44667437b0d9087fe7dda294f7ebe8656f4814fa6a2.png)  
 ![发布新闻](images/51e4ec8efe622d2cc8dd1101ca6da5ea6ca50d497ec9ac2c0a2ba769d2149898.png)  
 ![标签管理](images/71f4ae343a8e40e7c7ef1cd1a5e32ef1077afc71a471bae10c667f2c819aa328.png)  
-![留言管理](images/f1646b28f7f24a5d0d05bb6a5e507903af9e34cfa274e504edabe2edd39086ac.png)  
 ![通知策略](images/1c1dbcf370e1969e19cb7bc75b3ae0979c6064337c4d62667ee1ad6cd673cbac.png)  
-![用户管理](images/4aba2f914185e30e515731cef8bd1271bf5d94df79c42aebefb81eaa48da8b73.png)  
 ![角色管理](images/971d7924ec1b81b811cde3fa86046fa666f57616856f890f276f02633fd118be.png)  
-![授权总览](images/a86f89fb8c20052e33824c15650ff26fad66a5d17d17a648c97bdf371ea40cd2.png)  
-![操作日志](images/d6a6eb2242798805a3ddb39ed7856fe642971301bf87171e20cdab6234fdb449.png)
+![操作日志](images/55a0ea98a49b76e79bb0a36de471518e93c10829cb988a77e7f2c800e0e9cfd5.png)  
 ![聊天记录](images/43f9aceb808949e19fba6db782a54913b32c6363ea349b3d3b7b2ffdd06616b7.png)  
 ![今日访客](images/e243fd753bc5a358ed9482e13ffa8cac27d47eb3c54152735a76b927e949e21b.png)  
 
