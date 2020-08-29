@@ -25,7 +25,7 @@
 https://admin.100jiancai.cn
 
 ## nginx配置
-请参考另100jiancai-front项目
+请参考另jiancai-front项目
 
 ## 未上传的密钥文件
 
@@ -44,7 +44,7 @@ VUE_CLI_BABEL_TRANSPILE_MODULES = true
 ```properties
 ENV = 'production'
 # base api
-VUE_APP_BASE_API  = 'https://admin.100jiancai.cn/api'
+VUE_APP_BASE_API  = 'xxx'
 ```
 
 ```js
